@@ -151,6 +151,7 @@ export const Span = styled.span`
 `;
 
 export const SubTitle = styled.div`
+  text-align:justify;
   font-size: 20px;
   line-height: 32px;
   margin-bottom: 42px;
